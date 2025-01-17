@@ -75,17 +75,17 @@ python predict.py --input <path_to_new_data>
 
 ## **Results**
 
-Best Model: XGBoost achieved the highest performance with:
+**Best Model: XGBoost achieved the highest performance with:**
 
-Accuracy: 91.5%
+**Accuracy: 91.5%**
 
-Precision: 89.3%
+**Precision: 89.3%**
 
-Recall: 92.7%
+**Recall: 92.7%**
 
-F1-score: 91.0%
+**F1-score: 91.0%**
 
-ROC-AUC: 94.2%
+**ROC-AUC: 94.2%**
 
 Visualizations include confusion matrices, feature importance plots, and ROC curves (available in the results/ directory).
 
